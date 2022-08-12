@@ -22,7 +22,7 @@
           <div class="modulo verde ">
             <h3>Módulo 01 </h3>
             <ul>
-              <li><a href="#">Exercícios A</a></li>
+              <li><a href="exercicio.php">Exercícios A</a></li>
               <li><a href="#">Exercícios B</a></li>
               <li><a href="#">Exercícios C</a></li>
             </ul>
@@ -104,7 +104,7 @@
   </main>
   <!-- RODAPE -->
   <footer class="rodape">
-    ALUNOS © 2022
+    ALUNOS © <?= date('Y');  ?>
   </footer>  
 </body>
 </html>
