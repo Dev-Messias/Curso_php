@@ -20,4 +20,6 @@ unset($soma);//retirando valor atribuido a variavel
 //echo isset($soma), '<br>';
 var_dump($soma);
 
+$variavel = 10;
+
 ?>
