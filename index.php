@@ -32,7 +32,7 @@
           </div>
 
            <!-- Exercicio 02 -->
-           <div class="modulo vermelho ">
+          <div class="modulo vermelho ">
             <h3>Módulo 02 - Tipos </h3>
             <ul>
               <li><a href="exercicio.php?dir=tipos&file=int">Tipo Inteiro</a></li>
@@ -42,6 +42,14 @@
               <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
               <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li>
               <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
+            </ul>
+          </div>
+
+          <!-- Exercicio 03 -->
+          <div class="modulo azul ">
+            <h3>Módulo 03 - Variaveis </h3>
+            <ul>
+              <li><a href="exercicio.php?dir=variaveis&file=basico">Variáveis</a></li>
             </ul>
           </div>
 
