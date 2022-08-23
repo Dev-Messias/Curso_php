@@ -53,6 +53,7 @@
               <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
               <li><a href="exercicio.php?dir=variaveis&file=atribuicao">Atribuição</a></li>
               <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+              <li><a href="exercicio.php?dir=variaveis&file=constante">Constante</a></li>
             </ul>
           </div>
 
