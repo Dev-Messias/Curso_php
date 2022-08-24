@@ -57,6 +57,14 @@
             </ul>
           </div>
 
+           <!-- Exercicio 04 -->
+           <div class="modulo roxo ">
+            <h3>Módulo 04 - Controle </h3>
+            <ul>
+              <li><a href="exercicio.php?dir=controle&file=if_else">If / Else</a></li>
+            </ul>
+          </div>
+
         </nav>
     </div>
   </main>
